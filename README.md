@@ -3,4 +3,4 @@ Short python notebook with main calculations for paper "Unbinned Likelihood Anal
 
 https://arxiv.org/abs/2204.00140
 
-The various calibration files and spline.py come from the IXPEObsSim repository: https://github.com/lucabaldini/ixpeobssim
+The various calibration files (fits, arf, rmf) and spline.py come from the IXPEObsSim repository: https://github.com/lucabaldini/ixpeobssim
